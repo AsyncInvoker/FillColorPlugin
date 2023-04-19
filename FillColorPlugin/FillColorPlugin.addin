@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>FillColorPlugin</Name>
+		<FullClassName>FillColorPlugin.FillColorPlugin</FullClassName>
+		<Text>FillColorPlugin</Text>
+		<Description>Изменяет цвет заливки помещений одной из смежных квартир с одинаковой комнатностью</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>D:\Work\ПИК\Тестовое задание\FillColorPlugin\FillColorPlugin\FillColorPlugin\bin\Debug\FillColorPlugin.dll</Assembly>
+		<AddInId>502fe383-2648-4e98-adf8-5e6047f9dc24</AddInId>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
